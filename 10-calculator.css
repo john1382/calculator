@@ -1,0 +1,43 @@
+body{
+  background-color: black;
+}
+.buttons{
+height: 50px;
+width: 50px;
+background-color: rgb(52, 51, 51);
+color: white;
+border-radius: 60px;
+border: none;
+font-size: 25px;
+margin-right: 3px;
+margin-bottom: 1px;
+
+}
+.o-buttons{
+  height: 50px;
+width: 50px;
+background-color: orange;
+color: white;
+border-radius: 60px;
+border: none;
+font-size: 25px;
+
+}
+.style-calculation{
+color: white;
+font-size: 50px;
+font-weight: bold;
+
+}
+.clear-button{
+  height: 50px;
+width: 50px;
+background-color: rgb(52, 51, 51);
+color: white;
+border-radius: 60px;
+border: none;
+font-size: 13px;
+margin-right: 3px;
+margin-bottom: 1px;
+
+}
